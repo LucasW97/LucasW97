@@ -2,7 +2,7 @@
 
 # Lucas Marinho
 ## About me
-My name is Lucas and I am a beginner web developer. Currently, I have knowledge in HTML, CSS, and JavaScript and I am looking for my first opportunity as a programmer. Additionally, in my spare time, I enjoy studying other languages such as Java to expand my knowledge and skills.
+My name is Lucas and I am a university student in my third semester of ADS (Analysis and Systems Development) and my last semester of International Business. Besides my studies, I am a beginner web developer with knowledge in HTML, CSS, and JavaScript and I am looking for my first opportunity as a programmer. In my spare time, I enjoy studying other programming languages like Java to expand my knowledge and skills. I am excited to apply my skills and knowledge to challenging projects and learn from experienced professionals in the field.
 
 ## Skills
 * HTML
