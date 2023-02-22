@@ -1,4 +1,4 @@
-[Português](README.md) | [English](README-en.md)
+[English](README-en.md) | [Português](README.md)
 
 
 
