@@ -1,7 +1,3 @@
-# README.md
-
-
-
 # Lucas Marinho
 ## Sobre mim
 Meu nome é Lucas e sou um desenvolvedor web iniciante. Atualmente, tenho conhecimentos em HTML, CSS e JavaScript e estou em busca da minha primeira oportunidade como programador. Além disso, nas horas vagas, gosto de estudar outras linguagens, como Java, para expandir meu conhecimento e habilidades.
