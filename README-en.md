@@ -1,6 +1,7 @@
-[English](README-en.md) | [Português](README.md)
-
-
+<table align="right">
+   <tr><td><a href="https://github.com/LucasW97/LucasW97/blob/main/README.md">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/LucasW97/LucasW97/blob/main/README-en.md">:us: English</a></td></tr>
+</table>
 
 Lucas Marinho
 About me
