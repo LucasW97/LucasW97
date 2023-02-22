@@ -1,4 +1,9 @@
- [Português](README.md) | [English](README-en.md)
+<table align="right">
+ <tr><td><a href="https://github.com/acn3to/acn3to/blob/main/readme-en.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/acn3to/acn3to/blob/main/readme.md">:brazil: Português</a></td></tr>
+</table>
+
+
 # Lucas Marinho
 ## Sobre mim
 
