@@ -13,9 +13,11 @@ Meu nome é Lucas e sou um desenvolvedor web iniciante. Atualmente, tenho conhec
 ## Projetos
 Aqui estão alguns dos meus projetos mais recentes:
 
-* <a href = "https://github.com/LucasW97/Movie-Website"> Cubos Flix </a>
+* <a href = "https://github.com/LucasW97/Movie-Website"> Info Movie </a>
 <img src="https://github.com/LucasW97/Movie-Website/blob/main/fotos/5.png">
-* Projeto 2
+
+* <a href = "https://github.com/LucasW97/To-Do-List"> To Do List </a>
+ <img src="https://github.com/LucasW97/To-Do-List/blob/main/fotos/5.png">
 * Projeto 3
 
 
