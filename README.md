@@ -17,7 +17,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 <img src="https://github.com/LucasW97/Movie-Website/blob/main/fotos/5.png">
 
 * <a href = "https://github.com/LucasW97/To-Do-List"> To Do List </a>
- <img src="https://github.com/LucasW97/To-Do-List/blob/main/fotos/5.png">
+ <img src="https://github.com/LucasW97/To-Do-List/blob/main/fotos/3.png">
 * Projeto 3
 
 
