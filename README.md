@@ -1,3 +1,4 @@
+[English](README-en.md) | [Português](README.md)
 # Lucas Marinho
 ## Sobre mim
 
