@@ -3,7 +3,7 @@
 # Lucas Marinho
 ## Sobre mim
 
-Meu nome é Lucas e sou um estudante universitário no terceiro semestre de ADS (Análise e Desenvolvimento de Sistemas) e no último semestre de Comércio Exterior. Além dos meus estudos, sou um desenvolvedor web iniciante com conhecimentos em HTML, CSS e JavaScript e estou em busca da minha primeira oportunidade como programador. Nas horas vagas, gosto de estudar outras linguagens de programação, como Java, para expandir meu conhecimento e habilidades. Estou animado para aplicar minhas habilidades e conhecimentos em projetos desafiadores e aprender com profissionais experientes na área.
+Meu nome é Lucas e sou um estudante universitário no terceiro semestre de ADS (Análise e Desenvolvimento de Sistemas) e no último semestre de Comércio Exterior. Além dos meus estudos, sou um desenvolvedor iniciante com conhecimentos em HTML, CSS e JavaScript e estou em busca da minha primeira oportunidade como programador. Nas horas vagas, gosto de estudar outras linguagens de programação, como Java, para expandir meu conhecimento e habilidades. Estou animado para aplicar minhas habilidades e conhecimentos em projetos desafiadores e aprender com profissionais experientes na área.
 
 ## Habilidades
 * HTML
