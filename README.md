@@ -9,6 +9,7 @@ Meu nome é Lucas e sou um estudante universitário no terceiro semestre de ADS 
 * HTML
 * CSS
 * JavaScript
+* React
 
 ## Projetos
 Aqui estão alguns dos meus projetos mais recentes:
